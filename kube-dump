@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-#  Copyright 2020 WoozyMasta <woozymasta@gmail.com>
+#  Copyright 2020 Nicky <nbenitez@gmail.com>
 #
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -126,8 +126,8 @@ Example of use:
   ${0##*/} dump-namespaces -n default,dev -d /mnt/dump -spa --archive-type gz
 
 Report bugs at:
-  https://github.com/WoozyMasta/kube-dump/issues
-  <woozymasta@gmail.com>
+  https://github.com/nicaurybenitez/kube-dump/issues
+  <nbenitez@gmail.com>
 
 EOF
   exit 0
